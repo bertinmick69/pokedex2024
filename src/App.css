@@ -9,3 +9,14 @@
   text-align: center;
   text-shadow: 0px 0px 5px gray;
 }
+.btns {
+  background-color: aquamarine;
+}
+.btnp {
+  background-color: aquamarine;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
